@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PlayLab</string>
+    <string name="facebook_app_id">3497474477156540</string>
+    <string name="facebook_client_token">93a3d3c7cdcc71e5f4647b669bb59038</string>
+    <string name="fb_login_protocol_scheme">fb000000000000</string>
+</resources>

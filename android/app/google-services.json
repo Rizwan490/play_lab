@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "478780527317",
+    "project_id": "playlab-55c29",
+    "storage_bucket": "playlab-55c29.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:478780527317:android:354bc924f271095fa3485c",
+        "android_client_info": {
+          "package_name": "dev.vlab.play_lab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "478780527317-m2a9hbrije206h9ergl75tnv6nr7j4kj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "dev.vlab.play_lab",
+            "certificate_hash": "83addae3ae21e4ea91d60576e3e546a747f1fb14"
+          }
+        },
+        {
+          "client_id": "478780527317-l5fluckbfrqo0le64c434bs5l0q86uje.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDx0rUIO2IqJcsrtRipxpeRfTQfI5LW4VE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "478780527317-9unhi42e7e27vtg5btnkjiscpieup89b.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "478780527317-6j1u17ct9qjl8jf4q991jk8ui2pb7vh5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.watchnownetwork.blkcinemanetwork.playLabLatest"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
